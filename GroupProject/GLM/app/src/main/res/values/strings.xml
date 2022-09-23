@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">GLM</string>
+    <string-array name="type_spinner_list">
+        <item>Pick a type</item>
+        <item>School</item>
+        <item>Doctor</item>
+        <item>Appointments</item>
+        <item>Exams</item>
+        <item>Pick a type</item>
+        <item>School</item>
+        <item>Doctor</item>
+        <item>Appointments</item>
+        <item>Exams</item>
+        <item>Pick a type</item>
+        <item>School</item>
+        <item>Doctor</item>
+        <item>Appointments</item>
+        <item>Exams</item>
+        <item>Pick a type</item>
+        <item>School</item>
+        <item>Doctor</item>
+        <item>Appointments</item>
+        <item>Exams</item>
+        <item>Pick a type</item>
+        <item>School</item>
+        <item>Doctor</item>
+        <item>Appointments</item>
+        <item>Exams</item>
+    </string-array>
+
+</resources>

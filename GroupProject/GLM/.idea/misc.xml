@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/chen/Desktop/Team/370Fall21Sec58Team3/GroupProject/GLM/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/chen/Desktop/Team/370Fall21Sec58Team3/GroupProject/GLM/app/src/main/res/drawable/email.xml" value="0.4817708333333333" />
+        <entry key="..\:/Users/chen/Desktop/Team/370Fall21Sec58Team3/GroupProject/GLM/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.39895833333333336" />
+        <entry key="..\:/Users/chen/Desktop/Team/370Fall21Sec58Team3/GroupProject/GLM/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.4828125" />
+        <entry key="..\:/Users/chen/Desktop/Team/370Fall21Sec58Team3/GroupProject/GLM/app/src/main/res/drawable/ic_baseline_check_24.xml" value="0.39895833333333336" />
+        <entry key="..\:/Users/chen/Desktop/Team/370Fall21Sec58Team3/GroupProject/GLM/app/src/main/res/drawable/ic_baseline_check_box_outline_blank_24.xml" value="0.39895833333333336" />
+        <entry key="..\:/Users/chen/Desktop/Team/370Fall21Sec58Team3/GroupProject/GLM/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.590625" />
+        <entry key="..\:/Users/chen/Desktop/Team/370Fall21Sec58Team3/GroupProject/GLM/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.4817708333333333" />
+        <entry key="..\:/Users/chen/Desktop/Team/370Fall21Sec58Team3/GroupProject/GLM/app/src/main/res/drawable/ic_launcher_background.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/chen/Desktop/Team/370Fall21Sec58Team3/GroupProject/GLM/app/src/main/res/drawable/lock.xml" value="0.39895833333333336" />
+        <entry key="..\:/Users/chen/Desktop/Team/370Fall21Sec58Team3/GroupProject/GLM/app/src/main/res/drawable/settingIcon.xml" value="0.4817708333333333" />
+        <entry key="..\:/Users/chen/Desktop/Team/370Fall21Sec58Team3/GroupProject/GLM/app/src/main/res/drawable/settingicon.xml" value="0.49947916666666664" />
+        <entry key="..\:/Users/chen/Desktop/Team/370Fall21Sec58Team3/GroupProject/GLM/app/src/main/res/layout/activity_createreminder.xml" value="0.43385416666666665" />
+        <entry key="..\:/Users/chen/Desktop/Team/370Fall21Sec58Team3/GroupProject/GLM/app/src/main/res/layout/activity_login.xml" value="0.5" />
+        <entry key="..\:/Users/chen/Desktop/Team/370Fall21Sec58Team3/GroupProject/GLM/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/chen/Desktop/Team/370Fall21Sec58Team3/GroupProject/GLM/app/src/main/res/layout/activity_profileconfiguration.xml" value="0.5803722504230119" />
+        <entry key="..\:/Users/chen/Desktop/Team/370Fall21Sec58Team3/GroupProject/GLM/app/src/main/res/layout/createreminder.xml" value="0.37916666666666665" />
+        <entry key="..\:/Users/chen/Desktop/Team/370Fall21Sec58Team3/GroupProject/GLM/app/src/main/res/layout/recycler_view_item.xml" value="0.5" />
+        <entry key="..\:/Users/chen/Desktop/Team/370Fall21Sec58Team3/GroupProject/GLM/app/src/main/res/layout/reminderlist.xml" value="0.5744791666666667" />
+        <entry key="..\:/Users/micha/Desktop/CSCI 370 - Software Engineering/groupProject/370Fall21Sec58Team3/GroupProject/GLM/app/src/main/res/layout/activity_createreminder.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/micha/Desktop/CSCI 370 - Software Engineering/groupProject/370Fall21Sec58Team3/GroupProject/GLM/app/src/main/res/layout/activity_edit_listof_reminder.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/micha/Desktop/CSCI 370 - Software Engineering/groupProject/370Fall21Sec58Team3/GroupProject/GLM/app/src/main/res/layout/activity_edit_reminder.xml" value="0.264" />
+        <entry key="..\:/Users/micha/Desktop/CSCI 370 - Software Engineering/groupProject/370Fall21Sec58Team3/GroupProject/GLM/app/src/main/res/layout/activity_listoflist.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/micha/Desktop/CSCI 370 - Software Engineering/groupProject/370Fall21Sec58Team3/GroupProject/GLM/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/micha/Desktop/CSCI 370 - Software Engineering/groupProject/370Fall21Sec58Team3/GroupProject/GLM/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/micha/Desktop/CSCI 370 - Software Engineering/groupProject/370Fall21Sec58Team3/GroupProject/GLM/app/src/main/res/layout/activity_profileconfiguration.xml" value="0.264" />
+        <entry key="..\:/Users/micha/Desktop/CSCI 370 - Software Engineering/groupProject/370Fall21Sec58Team3/GroupProject/GLM/app/src/main/res/layout/recycler_view_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/micha/Desktop/CSCI 370 - Software Engineering/groupProject/370Fall21Sec58Team3/GroupProject/GLM/app/src/main/res/layout/reminderlist.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/micha/Desktop/CSCI 370 - Software Engineering/groupProject/370Fall21Sec58Team3/GroupProject/GLM/app/src/main/res/layout/spinnerlayer.xml" value="0.1734375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.5803722504230119" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
